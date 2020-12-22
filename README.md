@@ -1,6 +1,6 @@
 # dise-owebrodriguez
 Maximiliano Rodriguez
-comisión= 15-martes de 9hs a 12:30hs
+comisión= 15-martes de 9hs a 12:30hs.
 Descripción= Se puede apreciar un minisitio con secciones navegables internas y externas, 
 contruido principalmente en las propiedades "flex" a base de bootstrap v5.0.0-beta1 e implementaciones
 en casos especificos con "media queries". 
